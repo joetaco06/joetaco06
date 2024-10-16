@@ -1,6 +1,6 @@
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Economist specializing in Data Analysis. I enjoy to discover new places.</p>
+    <p>I'm a Economist specializing in Data Analysis. I enjoy to discover new places and learning new challenging things.</p>
 </div>
 
 
