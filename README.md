@@ -10,12 +10,7 @@
     <p>I'm a Economist specializing in Data Analysis. I enjoy to explorer new places and learning new challenging skills</p>
 </div>
 
-<div align="center">
-	One book: "Cien años de soledad"	
-	One song: "Yo no se mañana" (Salsa) - Luis Henrique
-	One movie: "Back to the future"
-	One quote: "Gentileza gera gentileza"
-</div>
+
 
 <div align="center">
   
