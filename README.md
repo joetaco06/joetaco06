@@ -18,7 +18,7 @@
   
   <p><strong>📚 One book:</strong> "Cien años de soledad" by Gabriel García Márquez</p>
   
-  <p><strong>🎶 One song:</strong> "Yo no sé mañana" (Salsa) - Luis Henrique</p>
+  <p><strong>🎶 One song:</strong> "Yo no sé mañana" (Salsa) by Luis Enrique</p>
   
   <p><strong>🎬 One movie:</strong> "Back to the Future"</p>
   
